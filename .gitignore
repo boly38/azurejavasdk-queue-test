@@ -1,0 +1,5 @@
+*.donotcommit.*
+.classpath
+.project
+.settings
+target/
